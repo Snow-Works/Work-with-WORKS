@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:black
+}
+
+
+.meni {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    font-size: xx-large;
+
+}
+
+h1 {
+    color:rgb(209, 179, 7);
+    text-align: center;
+    padding-top: 5px;
+}
+
+p{
+    color: white;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+
+.menie {
+    border: 15px solid  rgb(221, 207, 15);
+
+}
+
+
+img {
+    margin: 70px 10px 20px 130px;
+    
+}
